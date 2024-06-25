@@ -1,0 +1,14 @@
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+D:\Downloads\Projects\HelloWorldSolution\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
